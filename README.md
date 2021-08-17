@@ -1,3 +1,3 @@
 # hng_dedan_stage2
 
-![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
+![grab-task-gif](https://github.com/ndungudedan/hng_dedan_stage2/task_gif.gif)
